@@ -1,0 +1,115 @@
+*{
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+.pag {
+    display: grid;
+    grid-template-columns: 940px;
+    justify-content: center;
+    min-height: 1000px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.name img {
+    cursor: pointer;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 31px;
+}
+
+.links {
+    display: flex;
+    margin-left: 122.4px;
+}
+
+.links a{
+    color: black;
+    font-size: 16px;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+.welcome {
+    background-color: #FBDFDB;
+    border-radius: 30px;
+    display: flex;
+    width: 940px;
+    height: 366px;
+}
+
+.text {
+   margin: 117px 248px 117px 60px;
+}
+
+.text h1{
+    font-size: 32px;
+    margin-bottom: 10px;
+    width: 305px;
+    height: 38px;
+}
+
+.text p {
+    width: 316px;
+    height: 84px;
+    font-size: 18px;
+    opacity: 0.7;
+}
+
+.img {
+    margin-top: 70px;
+}
+
+.acess {
+    font-size: 12px;
+    margin-top: 50px;
+}
+
+.foods {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;  
+}
+
+
+.card-img img{
+    border-radius: 15px;
+    border-radius: 15px;
+    width: 300px;
+    height: 140px;
+}
+
+.card-name {
+    font: 18px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.card-info {
+    font-size: 14px;
+    opacity: 0.5;
+    margin-bottom: 30px;
+}
+
+.footer {
+    background-color:  #EEEEEE;
+    width: 100%;
+    height: 62px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.footer p {
+    font-size: 16px;
+    opacity: 0.5;
+    font-family: 'Roboto', sans-serif;
+}
