@@ -146,13 +146,10 @@ header{
     position: relative;
     margin: 200px auto;
     border-radius: 16px;
-    
-
 }
 
 .modal .closeModal{
-    color: black;
-    
+    color: black;  
     bottom: 10px;
     left: 200px;
     cursor:pointer;
@@ -161,11 +158,8 @@ header{
     color: #999999;
     display: block;
     font-size: 16px;
-   
+  
 }
-   
- 
-
 
 .modalOverlay.active{
     opacity: 1;

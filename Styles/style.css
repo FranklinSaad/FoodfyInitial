@@ -76,7 +76,6 @@ header{
     grid-template-columns: 1fr 1fr 1fr;  
 }
 
-
 .card-img img{
     border-radius: 15px;
     border-radius: 15px;
@@ -105,7 +104,6 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
 .footer p {

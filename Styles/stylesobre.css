@@ -17,8 +17,7 @@ header{
     align-items: center;
     margin-top: 30px;
     margin-bottom: 30px;
-    height: 31px;
-    
+    height: 31px;   
 }
 
 .links {
@@ -49,7 +48,6 @@ header{
     opacity: 0.7;
 }
 
-
 .footer {
     background-color:  #EEEEEE;
     width: 100%;
@@ -58,7 +56,6 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
 .footer p {
